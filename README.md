@@ -19,4 +19,5 @@ This repository contains the group project for the Machine Learning course 2024/
 
 ## Authors
 
-Group 63 – Machine Learning 2024/2025.
+Group 63 – Machine Learning 2025/2026.
+
